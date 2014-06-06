@@ -41,7 +41,7 @@ ENDGAME_BG_COLOR = (150,0,0)
 # GRAPHICS----------------------------------------
 
 bif = "bg.jpg"
-mif = "ball.png"
+mif = "src/ball.png"
 
 #uncomment for custom background
 #background = pygame.image.load(bif).convert()
