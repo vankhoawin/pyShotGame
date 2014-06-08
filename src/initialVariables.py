@@ -32,6 +32,7 @@ ENDGAME_FONT_COLOR = (255,255,0)
 ENDGAME_BG_COLOR = (150,0,0)
 
 
+
 # BUTTON VARIABLES--------------------------------
 
 #BUTTON_FONT  = pygame.font.Font('freesansbold.ttf', 14)
@@ -41,7 +42,7 @@ ENDGAME_BG_COLOR = (150,0,0)
 # GRAPHICS----------------------------------------
 
 bif = "bg.jpg"
-mif = "ball.png"
+mif = "src/ball.png"
 
 #uncomment for custom background
 #background = pygame.image.load(bif).convert()
