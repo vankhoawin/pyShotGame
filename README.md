@@ -1,0 +1,1 @@
+PyShotGame by Van Nguyen and TC Nguyen. Requires Pygame, just hit run.py.
